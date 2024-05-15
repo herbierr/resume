@@ -34,5 +34,4 @@ LaTex语法内容以及框架基本上参照[Htallone/myCV](https://github.com/H
 
 ### 效果示例
 
-**纯享版:**
 ![resume-zh](https://github.com/herbierr/resume/assets/80444681/0beaac03-e7ec-4611-97d7-531e32c7ac83)
