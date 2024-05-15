@@ -8,7 +8,7 @@
 
 *   [hijiangtao/resume](https://github.com/hijiangtao/resume)
 
-LaTex语法内容以及框架基本上参照[Htallone/myCV](https://github.com/Htallone/myCV), 宏主要参照[hijiangtao/resume](https://github.com/hijiangtao/resume), 集各家之所长后做了些小修改, 方便直接编译.
+LaTex语法内容以及框架基本上参照[Htallone/myCV](https://github.com/Htallone/myCV), 宏主要参照[herbierr/resume](https://github.com/herbierr/resume), 集各家之所长后做了些小修改, 方便直接编译.
 
 ### 使用步骤
 
